@@ -8,5 +8,5 @@ git config --global user.email "your_email@example.com"
 ```
 Also used to link your github name to your commits.
 ```
-$   git config --global user.name "Rolarg29"
+git config --global user.name "Rolarg29"
 ```
