@@ -1,6 +1,8 @@
 # Git-Github-practice
 This repository is for practicing git commands
 
+NOTE:
+
 ## Basic commands
 1- Used to link your email to your commits. (needed to update a remote repo on Github from your local repo)
 ```
