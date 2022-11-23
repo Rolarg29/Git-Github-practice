@@ -12,7 +12,11 @@ git config --global user.email "your_email@example.com"
 ```
 git config --global user.name "yourname"
 ```
-3- Used to initialize a proyect (create a subfolder .git)
+3- Used to initialize a new Git repository (create a subfolder .git) and a new main branch
 ```
 git init
+```
+4- shows the working tree status
+```
+git status
 ```
