@@ -1,7 +1,7 @@
 # Git-Github-practice
 This repository is for practicing git commands
 
-NOTE:
+NOTE: when pushing changes on command line interface instead of password you must use a Personal Acces Token.
 
 ## Basic commands
 1- Used to link your email to your commits. (needed to update a remote repo on Github from your local repo)
