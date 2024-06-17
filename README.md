@@ -12,11 +12,20 @@ git config --global user.email "your_email@example.com"
 ```
 git config --global user.name "yourname"
 ```
-3- Used to initialize a new Git repository (create a subfolder .git) and a new main branch
+3- Cloning a repository
+```
+git clone https://github.com/Myname01/repo-name.git
+Cloning into 'repo-name'...
+```
+```
+Username for 'https://github.com': Myname01
+Password for 'https://Myname01@github.com': (use a valid Personal Access Token)
+```
+4- Used to initialize a new Git repository (create a subfolder .git) and a new main branch
 ```
 git init
 ```
-4- shows the working tree status
+5- shows the working tree status
 ```
 git status
 ```
